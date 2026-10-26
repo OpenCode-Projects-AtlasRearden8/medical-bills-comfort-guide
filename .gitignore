@@ -1,0 +1,8 @@
+# Build outputs (regenerable locally)
+site/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
